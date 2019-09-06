@@ -36,8 +36,9 @@ The project is a capstone experience in which students integrate and apply knowl
 
 | Folder      | Description |
 | :---        |    ----:    |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Blink      | Basic Arduino Blink Code       |
+| GPS   | Text        |
+| IMU   | Text        |
 
 
 # Git Formatting Rules
@@ -62,3 +63,5 @@ The project is a capstone experience in which students integrate and apply knowl
 
 # Useful Links
 - [More Detailed Pinout](https://github.com/arduino/ArduinoCore-samd/blob/1.6.16/variants/mkrzero/variant.cpp)
+- [MPU6050 Register Maps](https://www.invensense.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf)
+- [MPU6050 Datasheet](https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf)
