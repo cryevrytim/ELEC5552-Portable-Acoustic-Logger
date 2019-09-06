@@ -65,3 +65,4 @@ The project is a capstone experience in which students integrate and apply knowl
 - [More Detailed Pinout](https://github.com/arduino/ArduinoCore-samd/blob/1.6.16/variants/mkrzero/variant.cpp)
 - [MPU6050 Register Maps](https://www.invensense.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf)
 - [MPU6050 Datasheet](https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf)
+- [Software Architecture - Brad](https://drive.google.com/drive/u/1/folders/1hU1nVz4LoETnlVDBaf5vCE3P_2Mw3HTS)
